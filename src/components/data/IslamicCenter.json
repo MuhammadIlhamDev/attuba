@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "image": "/src/assets/images/09.jpg",
+      "childImage": "/src/assets/images/10.png",
+      "title": "Building Upgrades",
+      "childTitle": "Mosque Development",
+      "description": "Lorem ipsum, dolor sit amet sectetur adipisicing elit. Vel dicta beatae del voluptas apelas de.",
+      "readMore": "Read More +"
+    },
+    {
+      "id": "2",
+      "image": "/src/assets/images/11.jpg",
+      "childImage": "/src/assets/images/13.png",
+      "title": "Help Poor",
+      "childTitle": "Charity And Donation",
+      "description": "Lorem ipsum, dolor sit amet sectetur adipisicing elit. Vel dicta beatae del voluptas apelas de.",
+      "readMore": "Read More +"
+    },
+    {
+      "id": "3",
+      "image": "/src/assets/images/12.jpg",
+      "childImage": "/src/assets/images/14.png",
+      "title": "Donate And Help",
+      "childTitle": "Poor Woman...",
+      "description": "Lorem ipsum, dolor sit amet sectetur adipisicing elit. Vel dicta beatae del voluptas apelas de.",
+      "readMore": "Read More +"
+    }
+  ]
+}
