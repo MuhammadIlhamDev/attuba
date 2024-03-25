@@ -26,8 +26,7 @@ const Qiciis = () => {
                   {item.title}
                 </h5>
                 <p className="font-poppins text-gray-700 pb-2">
-                  Lorem ipsum dolor sit, amet is consectetur adipisicing
-                  elit.Its expedita porro natus
+                  {item.description}
                 </p>
                 <a
                   href="#"
