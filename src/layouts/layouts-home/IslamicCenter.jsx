@@ -12,7 +12,7 @@ const IslamicCenter = () => {
 
   return (
     <>
-      <div className="">
+      <div className="pt-12">
         <div className="p-4 text-center">
           <h5 className="font-arvo font-bold text-[#8EC641] text-[1.2rem] uppercase">
             islamic Center Services
